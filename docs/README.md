@@ -14,6 +14,7 @@ This is a public GitHub repository and [Project board](https://github.com/users/
 
 ### [WIP] Initial Pitch-Crafting Decisions
 
+<div class="mermaid">
 ```mermaid
  flowchart TD
     A[Start] --> B{Is it?}
@@ -22,3 +23,4 @@ This is a public GitHub repository and [Project board](https://github.com/users/
     D --> B
     B ---->|No| E[End]
 ```
+</div>
