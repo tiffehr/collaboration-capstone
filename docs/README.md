@@ -11,3 +11,14 @@ This is a public GitHub repository and [Project board](https://github.com/users/
 **Goal:**  A flow-chart-style set of recommended guidelines for cross-newsroom collaborations, designed to help formulate a solid internal pitch to bosses across many axes.  Those may include project-development facets like team shape and size, roles & responsibilities, cross-publication & crediting, values & cultural-alignment agreements, financial & potential return-on-investment and a tactical reporting cadence.
 
 **Solution:** In collaboration with peers in differently shaped newsrooms, I will work on a primer for a collaboration-oriented pitch to a masthead editor (and by extension budgets, finance and staffing). A flow-chart of options could build out a simple or multi-part pitch, with many considerations answered up front that may not be traditionally expected by an editor. Grounding the process in project-management and/or product-development thinking should help show a well-rounded approach.
+
+### [WIP] Initial Pitch-Crafting Decisions
+
+```mermaid
+ flowchart TD
+    A[Start] --> B{Is it?}
+    B -->|Yes| C[OK]
+    C --> D[Rethink]
+    D --> B
+    B ---->|No| E[End]
+```
