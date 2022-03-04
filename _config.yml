@@ -169,7 +169,7 @@ search:
 ## => Analytics
 ##############################
 analytics:
-  provider: false # false (default), "google", "custom"
+  provider: google # false (default), "google", "custom"
 
   ## Google Analytics
   google:
@@ -203,8 +203,8 @@ exclude:
 
 defaults:
   - scope:
-      path: "/docs"
-      type: docs
+      path: "docs/"
+      type: webpage
     values:
       layout: landing
       sharing: true
