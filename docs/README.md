@@ -1,4 +1,4 @@
-# Crafting Better Pitches for Cross-Newsroom Collaborations
+# Welcome, All!
 
 Intra-newsroom collaborations offer many advantages to newsrooms small and large.  But some of our core journalistic defensive habits — exclusivity, budgetary, etc. — need to be constructively addressed with a serious, multi-faceted pitch to stakeholders and decision makers.
 
@@ -26,4 +26,3 @@ flowchart TD
     D --> B
     B ---->|No| E[END]
 </div>
-<script async src="https://unpkg.com/mermaid@8.14.0/dist/mermaid.min.js"></script>
