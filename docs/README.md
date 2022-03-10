@@ -26,3 +26,9 @@ Grounding the process in project-management and/or product-development thinking 
     D --> B
     B ---->|No| E[End]
 ```
+
+<div class="mermaid">
+graph LR;
+  A-->B;
+</div>
+<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
