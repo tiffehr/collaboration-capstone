@@ -18,17 +18,12 @@ Grounding the process in project-management and/or product-development thinking 
 
 ## [WIP] Initial Pitch-Crafting Decisions
 
-```mermaid
- flowchart TD
+<div class="mermaid">
+flowchart TD
     A[Start] --> B{Is it?}
     B -->|Yes| C[OK]
     C --> D[Rethink]
     D --> B
     B ---->|No| E[End]
-```
-
-<div class="mermaid">
-graph LR;
-  A-->B;
 </div>
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
