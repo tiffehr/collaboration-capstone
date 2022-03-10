@@ -24,6 +24,6 @@ flowchart TD
     B -->|Yes| C[OK]
     C --> D[Rethink]
     D --> B
-    B ---->|No| E[End]
+    B ---->|No| E[END]
 </div>
-<script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
+<script async src="https://unpkg.com/mermaid@8.14.0/dist/mermaid.min.js"></script>
