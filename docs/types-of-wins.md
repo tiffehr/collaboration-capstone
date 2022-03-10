@@ -1,33 +1,41 @@
 # Types of Wins
 
-## Intro to the Framework
+Successful pitches work best when you get decision-makers on your side for many elements, before asking them to focus on where a new collaboration may stretch previous boundaries. Many communication frameworks can apply here, but my recommended framework is referred to as Types of Wins. (It's also how I worked to refine this project, itself!)
 
-## Insight Wins
-> * Knowledge collected and shared for all project stages
+---
+
+## So what are the Types?
+
+Here are descriptions of what each grouping of Wins can mean.  And they fit a progression, as well:
+
+### Insight Wins
+> * Knowledge collected and shared for all collaboration stages
 > * Quick answers (wins) as well as new areas for exploration
 > * (these are things that decision-makers should agree are valuable and therefore they're bought in to them)
 
-## Process Wins
+### Process Wins
 > * Assessed resources (available and still needed)
 > * Early explorations (pilots), live and generating information
 > * Things that accerate the pace of progress overall
 
-## Capability Wins
+### Capability Wins
 > * Assessed resources already in use and succeeding
 > * Established (and document) workflows
 > * Delivering quality output in a sustainable way
 
-## Outcome Wins
+### Outcome Wins
 > * Growth for target metrics, e.g. audience analytics or publishing reach
-> * One or more advantages secured, based on the collaboration's goals
+> * One or more advantages secured, based on a collaboration's goals
 > * New channels established and generating dividends (can be non-monetary!)
 > * Real lessons observed and _learned_ that shape the next effort
 
-## Impact Wins
+### Impact Wins
 > * External responses and change TK
 > * Internal responses and change TK
 
-## For This Initiative
+---
+
+## My "Wins" for this Project's Kickoff
 
 ## Insight Wins
 * Surface a broader spectrum of collaboration types than may occur to a team or group
@@ -45,11 +53,11 @@
 
 
 ## Capability Wins
-* Skill-building, for all sides of the collaboration in cross-organization work 
+* Skill-building, for all sides of the collaboration in cross-organization work
 * Product-oriented thinking, either an introduction or reaffirmation
 * Connections and networking, within beats
 * Socializing multi-faceted aspects of collaborative agreements, particularly those targeting sourcing and trust between journalism and audience
-* TK 
+* TK
 
 ## Outcome Wins
 * Use!

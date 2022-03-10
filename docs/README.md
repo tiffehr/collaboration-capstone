@@ -1,18 +1,22 @@
-# Collaboration Primer
+# Crafting Better Pitches for Cross-Newsroom Collaborations
 
-This is a public GitHub repository and [Project board](https://github.com/users/tiffehr/projects/1/views/1), which should grow to include Github Pages site tied to my 2022 Capstone project for [CUNY Newmark J-School's 2022 Executive Program in News Innovation and Leadership](https://www.journalism.cuny.edu/j-plus/executive-program/).
+Intra-newsroom collaborations offer many advantages to newsrooms small and large.  But some of our core journalistic defensive habits — exclusivity, budgetary, etc. — need to be constructively addressed with a serious, multi-faceted pitch to stakeholders and decision makers.
 
-## Effective Pitch Resources for Cross-Newsroom Collaboration
+This project initiative aims to help collaborators to effectively pitch their ideas, with multi-faceted input and options.  And it introduces an organizational framework that directly appeals to making the actual pitch.
 
-### Summary
+---
 
-**Challenge:**  Intra-newsroom collaborations offer many advantages to newsrooms small and large.  But many of our core journalistic defensive mechanisms — exclusivity and budgetary — need to be overcome and set aside with a serious, multi-faceted pitch.  The more we can set early expectations and focus on key decisions, the easier it is to get approval to explore collaborative projects, in words, data or more.
+## Summary
 
-**Goal:**  A flow-chart-style set of recommended guidelines for cross-newsroom collaborations, designed to help formulate a solid internal pitch to bosses across many axes.  Those may include project-development facets like team shape and size, roles & responsibilities, cross-publication & crediting, values & cultural-alignment agreements, financial & potential return-on-investment and a tactical reporting cadence.
+**Challenge:**  The more we can guide decision-makers to "yes, and"-thinking and clear decision-making points, the smoother it is to gain approval to explore collaborative projects, in words, data or more.
 
-**Solution:** In collaboration with peers in differently shaped newsrooms, I will work on a primer for a collaboration-oriented pitch to a masthead editor (and by extension budgets, finance and staffing). A flow-chart of options could build out a simple or multi-part pitch, with many considerations answered up front that may not be traditionally expected by an editor. Grounding the process in project-management and/or product-development thinking should help show a well-rounded approach.
+**Goal:**  A flow-chart-style set of recommended guidelines for cross-newsroom collaborations, designed to help formulate a multi-faceted pitch to bosses.  These will include project-development facets like team shape and size, roles & responsibilities, cross-publication & crediting, values & cultural-alignment agreements, financial & potential return-on-investment and a tactical reporting cadence.
 
-### [WIP] Initial Pitch-Crafting Decisions
+**Solution:** In collaboration with peers in differently shaped newsrooms, I hope the community will maintain this project (slowly and iteratively) to help us support norms around cross-newsroom collaborations.  Supporting and augmenting norms should help focus decision-makers on _new_ facets of a project, by answering a number of considerations up front (ones that may not be traditionally expected by an editor).
+
+Grounding the process in project-management and/or product-development thinking provides a thorough framework for building a pitch.
+
+## [WIP] Initial Pitch-Crafting Decisions
 
 ```mermaid
  flowchart TD
