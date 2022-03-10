@@ -1,6 +1,7 @@
 ---
 layout: article
 title: About this project
+  # @end locale config
 key: page-about
 ---
 
