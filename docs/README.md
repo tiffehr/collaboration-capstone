@@ -19,20 +19,7 @@ Grounding the process in project-management and/or product-development thinking 
 ## [WIP] Initial Pitch-Crafting Decisions
 
 <div class="mermaid">
-%%{init: { "theme": "base", "themeVariables": {
-    "background": "white",
-    "primaryColor": "mintcream",
-    "secondaryBorderColor": "cadetblue",
-    "primaryTextColor": "cadetblue",
-    "clusterBorder": "darkslategrey",
-    "nodeBorder": "cadetblue",
-    "clusterBkg": "white",
-    "nodeTextColor": "darkslategrey",
-    "defaultLinkColor": "cadetblue",
-    "titleColor": "darkslategrey",
-    "edgeLabelBackground": "white"
-}}}
-%%
+%%{init: { "theme": "base", "themeVariables": { "background": "white", "primaryColor": "mintcream", "secondaryBorderColor": "cadetblue", "primaryTextColor": "cadetblue", "clusterBorder": "darkslategrey", "nodeBorder": "cadetblue", "clusterBkg": "white", "nodeTextColor": "darkslategrey", "defaultLinkColor": "cadetblue", "titleColor": "darkslategrey", "edgeLabelBackground": "white"}}}%%
 flowchart TD
   A[Christmas] -->|Get money| B(Go shopping)
   B --> C{Let me think}
