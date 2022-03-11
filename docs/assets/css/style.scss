@@ -6,3 +6,18 @@ a, a:link, a:visited, a:active, a:hover {
   color: cadetblue;
   text-decoration: none;
 }
+a:visited { color: darkslategrey; }
+a:active, a:hover { color: black; }
+h1 {
+  color: darkslategrey;
+}
+h2 {
+
+  color: cadetblue;
+  text-transform: uppercase;
+  font-weight: 200;
+  letter-spacing: -0.025em;
+}
+h3 {
+  color: #555555;
+}
