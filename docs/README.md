@@ -21,9 +21,17 @@ Grounding the process in project-management and/or product-development thinking 
 <div class="mermaid">
 %%{init: { "theme": "base", "themeVariables": { "background": "white", "primaryColor": "mintcream", "secondaryBorderColor": "cadetblue"}}}%%
 flowchart TD
-  A[Start] --> B{Is it?}
-  B -->|Yes| C[OK]
-  C --> D[Rethink]
-  D --> B
-  B ---->|No| E[END]
+  A[Christmas] -->|Get money| B(Go shopping)
+  B --> C{Let me think}
+  B --> G[Another]
+  C ==>|One| D[Laptop]
+  C x--x|Two| E[iPhone]
+  C o--o|Three| F[fa:fa-car Car]
+  subgraph section
+    C
+    D
+    E
+    F
+    G
+  END
 </div>
