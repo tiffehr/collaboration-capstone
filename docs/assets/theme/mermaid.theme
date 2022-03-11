@@ -1,0 +1,16 @@
+{
+  "theme": "base",
+  "themeVariables": {
+    "background": "white",
+    "primaryColor": "mintcream",
+    "secondaryBorderColor": "cadetblue",
+    "primaryTextColor": "cadetblue",
+    "clusterBorder": "darkslategrey",
+    "nodeBorder": "cadetblue",
+    "clusterBkg": "white",
+    "nodeTextColor": "darkslategrey",
+    "defaultLinkColor": "cadetblue",
+    "titleColor": "darkslategrey",
+    "edgeLabelBackground": "white" 
+    }
+}
