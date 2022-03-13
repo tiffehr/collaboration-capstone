@@ -1,9 +1,9 @@
-**[Summary](/) | [Roadmap](/roadmap.html) | [Types of Wins](/types-of-wins.md)**
-
 # Types of Wins
 
 Successful pitches work best when you get decision-makers on your side for many elements, before asking them to focus on where a new collaboration may stretch previous boundaries. Many communication frameworks can apply here, but my recommended framework is referred to as Types of Wins. (It's also how I worked to refine this project, itself!)
 
+---
+**[Summary](/)** | **[Roadmap](/roadmap.html)** | **[Types of Wins](/types-of-wins.md)**
 ---
 
 ## So what are the Types?

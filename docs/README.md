@@ -1,11 +1,11 @@
-**[Summary](/) | [Roadmap](/roadmap.html) | [Types of Wins](/types-of-wins.md)**
-
 # 👋
 
 Intra-newsroom collaborations offer many advantages to newsrooms small and large.  But some of our core journalistic defensive habits — exclusivity, budgetary, etc. — need to be constructively addressed with a serious, multi-faceted pitch to stakeholders and decision makers.
 
 This project initiative aims to help collaborators to effectively pitch their ideas, with multi-faceted input and options.  And it introduces an organizational framework that directly appeals to making the actual pitch.
 
+---
+**[Summary](/)** | **[Roadmap](/roadmap.html)** | **[Types of Wins](/types-of-wins.md)**
 ---
 
 

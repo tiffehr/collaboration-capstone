@@ -1,5 +1,3 @@
-**[Summary](/) | [Roadmap](/roadmap.html) | [Types of Wins](/types-of-wins.md)**
-
 # Roadmap
 
 ## 2022
@@ -30,3 +28,7 @@
 * **Dates TBD:**
   * Depending on 2022 projects, connection with broader Tech companies and their public data set collections
   * SRCCON, Collaborative Journalism Summit Next, etc.
+
+  ---
+**[Summary](/)** | **[Roadmap](/roadmap.html)** | **[Types of Wins](/types-of-wins.md)**
+---
