@@ -2,14 +2,9 @@
 
 Intra-newsroom collaborations offer many advantages to newsrooms small and large.  But some of our core journalistic defensive habits — exclusivity, budgetary, etc. — need to be constructively addressed with a serious, multi-faceted pitch to stakeholders and decision makers.
 
-This project initiative aims to help collaborators to effectively pitch their ideas, with multi-faceted input and options.  And it introduces an organizational framework that directly appeals to making the actual pitch.
+This project aims to help collaborators to effectively pitch their ideas, with multi-faceted input and options.  And it introduces an organizational framework that directly appeals to making the actual pitch.
 
----
-
-_[Summary](https://tiffehr.com/collaboration-capstone/)_ | _[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)_ | _[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.md)_
-
----
-
+[ _[Summary](https://tiffehr.com/collaboration-capstone/)_ | _[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)_ | _[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.html)_ ]
 
 ## Summary
 

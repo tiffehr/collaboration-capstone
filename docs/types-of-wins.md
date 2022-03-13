@@ -2,11 +2,7 @@
 
 Successful pitches work best when you get decision-makers on your side for many elements, before asking them to focus on where a new collaboration may stretch previous boundaries. Many communication frameworks can apply here, but my recommended framework is referred to as Types of Wins. (It's also how I worked to refine this project, itself!)
 
----
-
-_[Summary](https://tiffehr.com/collaboration-capstone/)_ | _[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)_ | _[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.md)_
-
----
+[ _[Summary](https://tiffehr.com/collaboration-capstone/)_ | _[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)_ | _[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.html)_ ]
 
 ## So what are the Types?
 

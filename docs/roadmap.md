@@ -29,8 +29,4 @@
   * Depending on 2022 projects, connection with broader Tech companies and their public data set collections
   * SRCCON, Collaborative Journalism Summit Next, etc.
 
----
-
-_[Summary](https://tiffehr.com/collaboration-capstone/)_ | _[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)_ | _[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.md)_
-
----
+[ _[Summary](https://tiffehr.com/collaboration-capstone/)_ | _[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)_ | _[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.html)_ ]
