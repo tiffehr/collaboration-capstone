@@ -8,11 +8,9 @@ This project aims to help collaborators to effectively pitch their ideas, with m
 
 ## Summary
 
-**Challenge:**  The more we can guide decision-makers to "yes, and"-thinking and clear decision-making points, the smoother it is to gain approval to explore collaborative projects, in words, data or more.
+The more we can guide decision-makers to "yes, and"-thinking and clear decision-making points, the smoother it is to gain approval to explore collaborative projects, in words, data or more.
 
-**Goal:**  A flow-chart-style set of recommended guidelines for cross-newsroom collaborations, designed to help formulate a multi-faceted pitch to bosses.  These will include project-development facets like team shape and size, roles & responsibilities, cross-publication & crediting, values & cultural-alignment agreements, financial & potential return-on-investment and a tactical reporting cadence.
-
-**Solution:** In collaboration with peers in differently shaped newsrooms, I hope the community will maintain this project (slowly and iteratively) to help us support norms around cross-newsroom collaborations.  Supporting and augmenting norms should help focus decision-makers on _new_ facets of a project, by answering a number of considerations up front (ones that may not be traditionally expected by an editor).
+In collaboration with peers in differently shaped newsrooms, I hope the community will maintain this project (slowly and iteratively) to help us support norms around cross-newsroom collaborations.  Supporting and augmenting norms should help focus decision-makers on _new_ facets of a project, by answering a number of considerations up front (ones that may not be traditionally expected by an editor).
 
 Grounding the process in project-management and/or product-development thinking provides a thorough framework for building a pitch.
 
