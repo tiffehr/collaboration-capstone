@@ -5,7 +5,9 @@ Intra-newsroom collaborations offer many advantages to newsrooms small and large
 This project initiative aims to help collaborators to effectively pitch their ideas, with multi-faceted input and options.  And it introduces an organizational framework that directly appeals to making the actual pitch.
 
 ---
-**[Summary](https://tiffehr.com/collaboration-capstone/)** | **[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)** | **[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.md)**
+
+_[Summary](https://tiffehr.com/collaboration-capstone/)_ | _[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)_ | _[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.md)_
+
 ---
 
 

@@ -30,5 +30,7 @@
   * SRCCON, Collaborative Journalism Summit Next, etc.
 
 ---
-**[Summary](https://tiffehr.com/collaboration-capstone/)** | **[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)** | **[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.md)**
+
+_[Summary](https://tiffehr.com/collaboration-capstone/)_ | _[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)_ | _[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.md)_
+
 ---
