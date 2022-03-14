@@ -5,4 +5,4 @@ title: Crafting Better Pitches for Cross-Newsroom Collaborations
 description: Better pitches make for better project leadership and product-shaped outcomes.
 google_analytics: G-N50S9WCXHE
 logo: /assets/img/hands.png
-mermaid_theme: {init: '{"theme": "base","themeVariables": { "background": "white", "primaryColor": "mintcream", "secondaryBorderColor": "cadetblue", "primaryTextColor": "cadetblue", "clusterBorder": "darkslategrey", "nodeBorder": "cadetblue", "clusterBkg": "white", "nodeTextColor": "darkslategrey", "defaultLinkColor": "cadetblue", "titleColor": "darkslategrey", "edgeLabelBackground": "white" }}}'
+# mermaid_theme: {init: '{"theme": "base","themeVariables": { "background": "white", "primaryColor": "mintcream", "secondaryBorderColor": "cadetblue", "primaryTextColor": "cadetblue", "clusterBorder": "darkslategrey", "nodeBorder": "cadetblue", "clusterBkg": "white", "nodeTextColor": "darkslategrey", "defaultLinkColor": "cadetblue", "titleColor": "darkslategrey", "edgeLabelBackground": "white" }}}'
