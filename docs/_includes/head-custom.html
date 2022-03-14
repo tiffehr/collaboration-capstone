@@ -2,7 +2,11 @@
 <link rel="shortcut icon" type="image/x-icon" href="{{ '/collaboration-capstone/assets/img/favicon.ico' }}">
 <script src="https://unpkg.com/mermaid@8.14.0/dist/mermaid.min.js"></script>
 <script>
-  mermaid.initialize({ startOnLoad: true, theme: 'neutral' });
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: "neutral",
+    themeVariables: { background: "white", primaryColor: "mintcream", secondaryBorderColor: "cadetblue" },
+  });
 </script>
 
 {% if site.google_analytics %}
