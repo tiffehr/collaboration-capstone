@@ -18,11 +18,13 @@ Grounding the process in project-management and/or product-development thinking 
 
 <div class="mermaid">
 graph TD
-  A[How many collaborators?] --> D{Some traditions:}
-  D -->|2+ news orgs| d1[Shared(?) leadership]
-  D -->|Reporting network| d2[Hub-and-spoke model?]
-  D -->|Standing initiative| d3[Dedicated proj. leadership]
+  A(How many collaborators?) --> B[Some traditions:]
+    B -->|2+ news orgs| b1(Shared leadership)
+    B -->|Reporting network| b2(Hub-and-spoke model?)
+    B -->|Sustained initiative| b3(Dedicated proj. leadership)
 </div>
+
+TK written desciption of the shorthand in the diagram above.
 
 
 <div class="mermaid">
@@ -42,3 +44,5 @@ graph TD
       c1 --> c2(Maintenance responsibilities)
       c2 --> c3(Vocab & jargon definitions)
 </div>
+
+TK written desciption of the shorthand in the diagram above.  Links to sources.  Links to examples.
