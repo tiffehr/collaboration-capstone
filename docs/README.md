@@ -20,29 +20,57 @@ Grounding the process in project-management and/or product-development thinking 
 graph TD
   A(How many collaborators?) --> B[Some traditions:]
     B -->|2+ news orgs| b1(Shared leadership)
-    B -->|Reporting network| b2(Hub-and-spoke model?)
+      b1 --> sm(Call these 'Small')
+    B -->|Reporting network| b2(Hub-and-spoke leadership)
+      b2 --> md('Medium')
     B -->|Sustained initiative| b3(Dedicated proj. leadership)
+      b3 --> lg('Large')
 </div>
 
 TK written desciption of the shorthand in the diagram above.
 
 
+### "Small" Collaborations
 <div class="mermaid">
 graph TD
-  A{"Small" collaborations} --> B[Facets we could include:]
-    B --> |Audience| a1(Shared contacts for interviews)
-      a1 --> a2(Shared contacts in community)
-      a2 --> a3(Docs & task mgmt platform)
-      a3 --> a4(Publishing & audience metrics)
-      a4 --> a5(Method for assessing impact)
-    B --> |Budgeting| b1[Universal budget for who's reporting on what]
-      b1 --> b2(Data-sourcing agreements)
-      b2 --> b3(Financing &/or grants)
-      b3 --> b4(Back-office support)
-    B --> |Culture| C(M.O.U. of practices & reporting standards)
+  SM{{"Small" collaborations}} --> F[Facets we could include:]
+    F --> |Audience| A(Shared contacts for interviews)
+      A --> a1(Shared contacts in community)
+      a1 --> a2(Docs & task mgmt platform)
+      a2 --> a3(Publishing & audience metrics)
+      a3 --> a4(Method for assessing impact)
+    F --> |Budgeting| B[Universal budget for who's reporting on what]
+      B --> b1(Data-sourcing agreements)
+      b1 --> b2(Financing &/or grants)
+      b2 --> b3(Back-office support)
+    F --> |Culture| C(M.O.U. of practices & reporting standards)
       C --> c1(Follow-up and maintenance responsibilities)
       c1 --> c2(Maintenance responsibilities)
       c2 --> c3(Vocab & jargon definitions)
+</div>
+
+TK written desciption of the shorthand in the diagram above.  Links to sources.  Links to examples.
+
+### "Medium" Collaborations
+
+<div class="mermaid">
+graph TD
+  SZ{{"Medium" collaborations}} --> F[Facets we could include:]
+    F --> |Audience| A(TK)
+    F --> |Budgeting| B(TK)
+    F --> |Culture| C(TK)
+</div>
+
+TK written desciption of the shorthand in the diagram above.  Links to sources.  Links to examples.
+
+### "Large" Collaborations
+
+<div class="mermaid">
+graph TD
+  SZ{{"Large" collaborations}} --> F[Facets we could include:]
+    F --> |Audience| A(TK)
+    F --> |Budgeting| B(TK)
+    F --> |Culture| C(TK)
 </div>
 
 TK written desciption of the shorthand in the diagram above.  Links to sources.  Links to examples.
