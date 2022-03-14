@@ -1,19 +1,19 @@
 # 👋
 
-**This project aims to help cross-newsroom collaborators more effectively pitch their projects.**  The more we can guide decision-makers to "yes, and"-thinking and clear decision-making points, the smoother it is to gain approval to explore collaborative projects in words, data or more.
+**This project aims to help cross-newsroom collaborators more effectively pitch their projects.**  The more we can guide decision-makers to "yes, and"-thinking and clear decision-making points, the smoother it is to gain approval to start your collaborative efforts.
 
-The goal is to draw from emergent industry norms to create a multi-facted pitch that front-loads many potential stumbling blocks that could arise once the project has started.  Clearly buliding on norms & patterns can help decision-makers focus on _new_ facets of a project.  The hope is this makes for faster approvals, clearer guidlines and better projects overall.
+The goal is to draw from emergent industry norms to create a multi-facted pitch that front-loads potential stumbling blocks that could arise once the project has started.  Clearly buliding on norms and patterns can help decision-makers focus on _new_ facets of a project in discussion.  The hope is this makes for faster approvals, clearer guidlines and better projects overall.
 
-Pick and choose from a menu of options that other news organizations employ in their collaboration start-up processes, from small, helpful reminders to overarching strategic plans like like leadership structures and project sustainability.
+**Pick & choose from a menu of options** used by other news organizations in their collaborations, from small, helpful reminders to overarching strategic plans like like leadership structures and project sustainability.
 
-This intentionally frames pitch-writing as a product-development step, with many metaphors and strategies borrowed from how our Product peers do their work in our news organizations.  This also helps create easier dicussions between newsroom and product groups, with shared vocabulary and frameworks to help bridge communication gaps.
+This intentionally frames pitch-writing within the vocabulary of product development, with metaphors and frameworks borrowed from those disciplines.  This should promote better dicussions between newsroom and Product groups, with shared vocabulary and frameworks to help bridge communication gaps overall.
 
 
 ## [WIP] Initial Pitch-Crafting Decisions
 
-We may expect to group types of collaborations based on planned output. But Size is perhaps a more useful grouping, because it implies different types of leadership and staffing complexity.  Size here is not meant to be strict definitions, e.g. <= 3 reporters, or 3-5 reporters, etc.
+We may expect to group types of collaborations based on planned output. But Size is perhaps a more useful grouping, because it implies different types of leadership, staffing and sharing complexity.  Size here is not meant to be strict definitions, e.g. <= 3 reporters, or 3-5 reporters, etc.
 
-Here we're borrowing the [**relative sizing of tee-shirts**](https://asana.com/resources/t-shirt-sizing) that's often used by our Product or Engineering peers to guesstimate effort without getting sidetracked into definitions.  We can all understand the meaning of a shift between a Small and a Medium tee, as a projection of future effort.
+We're borrowing the [**relative sizing of tee-shirts**](https://asana.com/resources/t-shirt-sizing) that's often used by our Product or Engineering peers to guesstimate effort without getting sidetracked into definitions.  We can all understand the meaning of a shift between a Small and a Medium tee, as a projection of future effort.
 
 <div class="mermaid">
 graph TD
@@ -35,7 +35,9 @@ The third pattern in our "Small" diagram above is a sustained initaitive -- a re
 
 All of these "Small" permutations come with their own complexities and challenges once they're up and running. This is not meant to troubleshoot project configurations but instead help readers understand
 
-Montclair University's Center for
+[Montclair University's Center for Cooperative Media](https://collaborativejournalism.org/models/) suggests a matrix-shaped model, with groupings by working relationships vs. timeframes. This [specific chart version](https://collaborativejournalism.org/wp-content/uploads/sites/8/2019/07/TS-collaborativej-models-tip-sheet.pdf) shows their potential intersections, like "Partners work together to create content" x "One-time or finite [timelines]".  The Center breaks out a dedicated [Tip Sheets](https://www.canva.com/design/DADfMwOBGjA/uLTSpnHMQ3KtLzaGiJmNfw/view?website#2), which are easy to read and contain many project-planning insights.
+
+The Center for Cooporative Media's collection and Report is a fantastic resource. This particular site will point to their work pretty frequently, particularly where questions lead from crafting a pitch into executing on plans.
 
 
 ### "Small" Collaborations
