@@ -19,9 +19,27 @@ Grounding the process in project-management and/or product-development thinking 
 <div class="mermaid">
 %%{init: {"theme": "base","themeVariables": { "background": "white", "primaryColor": "mintcream", "secondaryBorderColor": "cadetblue", "primaryTextColor": "cadetblue", "clusterBorder": "darkslategrey", "nodeBorder": "cadetblue", "clusterBkg": "white", "nodeTextColor": "darkslategrey", "defaultLinkColor": "cadetblue", "titleColor": "darkslategrey", "edgeLabelBackground": "white" }}}%%
 graph TD
-  A[Christmas] -->|Get money| B(Go shopping)
-  B --> C{Let me think}
-  C -->|One| D[Laptop]
-  C -->|Two| E[iPhone]
-  C -->|Three| F[fa:fa-car Car]
+  A[How many collaborators?] --> D{Some traditions:}
+  D -->|2+ news orgs| d1[Shared(?) leadership]
+  D -->|Reporting network| d2[Hub-and-spoke model?]
+  D -->|Standing initiative| d3[Dedicated proj. leadership]
+</div>
+
+
+<div class="mermaid">
+graph TD
+  A{"Small" collaborations} --> B[Facets we could include:]
+    B --> |Audience| a1(Shared contacts for interviews)
+      a1 --> a2(Shared contacts in community)
+      a2 --> a3(Docs & task mgmt platform)
+      a3 --> a4(Publishing & audience metrics)
+      a4 --> a5(Method for assessing impact)
+    B --> |Budgeting| b1[Universal budget for who's reporting on what]
+      b1 --> b2(Data-sourcing agreements)
+      b2 --> b3(Financing &/or grants)
+      b3 --> b4(Back-office support)
+    B --> |Culture| C(M.O.U. of practices & reporting standards)
+      C --> c1(Follow-up and maintenance responsibilities)
+      c1 --> c2(Maintenance responsibilities)
+      c2 --> c3(Vocab & jargon definitions)
 </div>

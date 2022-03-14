@@ -11,8 +11,13 @@
   </script>
 {% endif %}
 
-<!-- You can set your favicon here -->
 <link rel="shortcut icon" type="image/x-icon" href="{{ '/collaboration-capstone/assets/img/favicon.ico' }}">
 
 <script async src="https://unpkg.com/mermaid@8.14.0/dist/mermaid.min.js"></script>
+<script async>
+  mermaid.mermaidAPI.initialize({
+    securityLevel: 'loose',
+    theme: 'default'
+  });
+</script>
 <!-- end custom head snippets -->
