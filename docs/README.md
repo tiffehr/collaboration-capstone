@@ -1,8 +1,8 @@
 # 👋
 
-**This project aims to help cross-newsroom collaborators more effectively pitch their projects.**  The more we can guide decision-makers to "yes, and"-thinking and clear decision-making points, the smoother it is to gain approval to start your collaborative efforts.
+**This project aims to help cross-newsroom collaborators more effectively pitch their projects.**  The more we can guide decision-makers to "yes, and"-thinking and clear decision-making points, the smoother it is to jump-start your collaborative efforts.
 
-The goal is to draw from emergent industry norms to create a multi-facted pitch that front-loads potential stumbling blocks that could arise once the project has started.  Clearly buliding on norms and patterns can help decision-makers focus on _new_ facets of a project in discussion.  The hope is this makes for faster approvals, clearer guidlines and better projects overall.
+The goal is to draw from emergent industry norms to create a multi-facted pitch that front-loads potential stumbling blocks that could arise once the project has started.  Transparently buliding upon norms and patterns can help decision-makers focus on _new_ facets of a project rather than past stumbling blocks.  With this focus, we can achieve faster approval, broader guidlines and smoother projects overall.
 
 **Pick & choose from a menu of options** used by other news organizations in their collaborations, from small, helpful reminders to overarching strategic plans like like leadership structures and project sustainability.
 
