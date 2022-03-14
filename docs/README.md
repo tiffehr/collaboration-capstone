@@ -17,7 +17,6 @@ Grounding the process in project-management and/or product-development thinking 
 ## [WIP] Initial Pitch-Crafting Decisions
 
 <div class="mermaid">
-%%{init: {"theme": "base","themeVariables": { "background": "white", "primaryColor": "mintcream", "secondaryBorderColor": "cadetblue", "primaryTextColor": "cadetblue", "clusterBorder": "darkslategrey", "nodeBorder": "cadetblue", "clusterBkg": "white", "nodeTextColor": "darkslategrey", "defaultLinkColor": "cadetblue", "titleColor": "darkslategrey", "edgeLabelBackground": "white" }}}%%
 graph TD
   A[How many collaborators?] --> D{Some traditions:}
   D -->|2+ news orgs| d1[Shared(?) leadership]
