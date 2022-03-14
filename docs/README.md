@@ -33,7 +33,7 @@ TK written desciption of the shorthand in the diagram above.
 ### "Small" Collaborations
 <div class="mermaid">
 graph TD
-  A{{"Small" collaborations}} --> F[Facets we could include:]
+  SM("Small" collaborations) --> F[Facets we could include:]
     F --> |Audience| A(Shared contacts for interviews)
       A --> a1(Shared contacts in community)
       a1 --> a2(Docs & task mgmt platform)
@@ -55,7 +55,7 @@ TK written desciption of the shorthand in the diagram above.  Links to sources. 
 
 <div class="mermaid">
 graph TD
-  A{{"Medium" collaborations}} --> F[Facets we could include:]
+  MD("Medium" collaborations) --> F[Facets we could include:]
     F --> |Audience| A(TK)
     F --> |Budgeting| B(TK)
     F --> |Culture| C(TK)
@@ -67,7 +67,7 @@ TK written desciption of the shorthand in the diagram above.  Links to sources. 
 
 <div class="mermaid">
 graph TD
-  A{{"Large" collaborations}} --> F[Facets we could include:]
+  LG("Large" collaborations) --> F[Facets we could include:]
     F --> |Audience| A(TK)
     F --> |Budgeting| B(TK)
     F --> |Culture| C(TK)
