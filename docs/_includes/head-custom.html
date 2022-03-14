@@ -1,4 +1,13 @@
 <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+<link rel="shortcut icon" type="image/x-icon" href="{{ '/collaboration-capstone/assets/img/favicon.ico' }}">
+<script src="https://unpkg.com/mermaid@8.14.0/dist/mermaid.min.js"></script>
+<script>
+  mermaid.initialize({
+    "securityLevel": 'loose',
+    "theme": 'default',
+  });
+</script>
+
 {% if site.google_analytics %}
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-N50S9WCXHE"></script>
@@ -10,18 +19,4 @@
     gtag('config', 'G-N50S9WCXHE');
   </script>
 {% endif %}
-
-<link rel="shortcut icon" type="image/x-icon" href="{{ '/collaboration-capstone/assets/img/favicon.ico' }}">
-
-<script src="https://unpkg.com/mermaid@8.14.0/dist/mermaid.min.js"></script>
-<script>
-  mermaid.mermaidAPI.initialize({
-    securityLevel: 'loose',
-    theme: 'default',
-    themeVariables: {
-      background: "white",
-      primaryTextColor: "cadetblue",
-    }
-  });
-</script>
 <!-- end custom head snippets -->
