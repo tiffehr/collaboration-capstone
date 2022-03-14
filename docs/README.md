@@ -1,18 +1,13 @@
 # 👋
 
-Intra-newsroom collaborations offer many advantages to newsrooms small and large.  But some of our core journalistic defensive habits — exclusivity, budgetary, etc. — need to be constructively addressed with a serious, multi-faceted pitch to stakeholders and decision makers.
+**This project aims to help cross-newsroom collaborators more effectively pitch their projects.**  The more we can guide decision-makers to "yes, and"-thinking and clear decision-making points, the smoother it is to gain approval to explore collaborative projects in words, data or more.
 
-This project aims to help collaborators to effectively pitch their ideas, with multi-faceted input and options.  And it introduces an organizational framework that directly appeals to making the actual pitch.
+The goal is to draw from emergent industry norms to create a multi-facted pitch that front-loads many potential stumbling blocks that could arise once the project has started.  Clearly buliding on norms & patterns can help decision-makers focus on _new_ facets of a project.  The hope is this makes for faster approvals, clearer guidlines and better projects overall.
 
-[ _[Summary](https://tiffehr.com/collaboration-capstone/)_ | _[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)_ | _[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.html)_ ]
+Pick and choose from a menu of options that other news organizations employ in their collaboration start-up processes, from small, helpful reminders to overarching strategic plans like like leadership structures and project sustainability.
 
-## Summary
+This intentionally frames pitch-writing as a product-development step, with many metaphors and strategies borrowed from how our Product peers do their work in our news organizations.  This also helps create easier dicussions between newsroom and product groups, with shared vocabulary and frameworks to help bridge communication gaps.
 
-The more we can guide decision-makers to "yes, and"-thinking and clear decision-making points, the smoother it is to gain approval to explore collaborative projects, in words, data or more.
-
-In collaboration with peers in differently shaped newsrooms, I hope the community will maintain this project (slowly and iteratively) to help us support norms around cross-newsroom collaborations.  Supporting and augmenting norms should help focus decision-makers on _new_ facets of a project, by answering a number of considerations up front (ones that may not be traditionally expected by an editor).
-
-Grounding the process in project-management and/or product-development thinking provides a thorough framework for building a pitch.
 
 ## [WIP] Initial Pitch-Crafting Decisions
 
@@ -87,3 +82,5 @@ graph TD
 </div>
 
 TK written desciption of the shorthand in the diagram above.  Links to sources.  Links to examples.
+
+[ _[Summary](https://tiffehr.com/collaboration-capstone/)_ | _[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)_ | _[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.html)_ ]
