@@ -16,18 +16,31 @@ Grounding the process in project-management and/or product-development thinking 
 
 ## [WIP] Initial Pitch-Crafting Decisions
 
+We may expect to group types of collaborations based on planned output. But Size is perhaps a more useful grouping, because it implies different types of leadership and staffing complexity.  Size here is not meant to be strict definitions, e.g. <= 3 reporters, or 3-5 reporters, etc.
+
+Here we're borrowing the [**relative sizing of tee-shirts**](https://asana.com/resources/t-shirt-sizing) that's often used by our Product or Engineering peers to guesstimate effort without getting sidetracked into definitions.  We can all understand the meaning of a shift between a Small and a Medium tee, as a projection of future effort.
+
 <div class="mermaid">
 graph TD
-  A(How many collaborators?) --> B[Some traditions:]
-    B -->|2+ news orgs| b1(Shared leadership)
-      b1 --> sm(Call these 'Small')
+  A(How many collaborators?) --> B[Some traditional segments:]
+    B -->|2+ news orgs| b1(Mixed leadership)
+      b1 --> sm('Small' tee)
     B -->|Reporting network| b2(Hub-and-spoke leadership)
-      b2 --> md('Medium')
-    B -->|Sustained initiative| b3(Dedicated proj. leadership)
-      b3 --> lg('Large')
+      b2 --> md('Medium' tee)
+    B -->|Sustained initiative| b3(Dedicated proj. leaders & staffing)
+      b3 --> lg('Large' tee)
 </div>
 
-TK written desciption of the shorthand in the diagram above.
+
+A "Small" collaboration (no judgement implied!) could be as focused as 2 reporters sharing pooled resources but writing & publishing separately.  Or small reporting pods within 2 or 3 newsrooms, democratically sharing resources and co-publishing the same content on multiple news-org sites.
+
+More complex "Small" efforts may include local news cooperative with each group lending separate expertise into a pod-style group, targeting a shared audience.  Or a reporting network, where one newsroom operates staff and resouces (the "hub"), with collaborators seen as "spokes" to the network and recipients of its work.
+
+The third pattern in our "Small" diagram above is a sustained initaitive -- a reporting project spun out of its home news orgs into its own staffing, funding and editorial decision-making.
+
+All of these "Small" permutations come with their own complexities and challenges once they're up and running. This is not meant to troubleshoot project configurations but instead help readers understand
+
+Montclair University's Center for
 
 
 ### "Small" Collaborations
