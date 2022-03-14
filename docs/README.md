@@ -22,13 +22,13 @@ Here we're borrowing the [**relative sizing of tee-shirts**](https://asana.com/r
 
 <div class="mermaid">
 graph TD
-  A(How many collaborators?) --> B[Some traditional segments:]
-    B --> b1('Small' tee)
-      b1 -->|e.g. pairs, pods, pools| sm{{Shared/mixed leadership}}
-    B --> b2('Medium' tee)
-      b2 -->|e.g., reporting networks| md{{Hub-and-spoke leadership}}
-    B --> b3('Large' tee)
-      b3 -->|e.g. sustained initiatives| lg{{Dedicated leaders & staffing}}
+  A(How many collaborators?) --> B(Some traditional segments:)
+    B --> b1[\"Small" tee/]
+      b1 -->|e.g. pairs, pods, pools| sm[Shared/mixed leadership]
+    B --> b2[\"Medium" tee/]
+      b2 -->|e.g., reporting networks| md[Hub-and-spoke leadership]
+    B --> b3[\"Large" tee/]
+      b3 -->|e.g. sustained initiatives| lg[Dedicated leaders & staffing]
 </div>
 
 
