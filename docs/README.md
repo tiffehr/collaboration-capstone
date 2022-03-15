@@ -2,18 +2,22 @@
 
 **This project aims to help cross-newsroom collaborators more effectively pitch their projects.**  The more we can guide decision-makers to "yes, and"-thinking and clear decision-making points, the smoother it is to jump-start your collaborative efforts.
 
-The goal is to draw from emergent industry norms to create a multi-facted pitch that front-loads potential issues that could arise once the project has started.  Transparently buliding upon norms and patterns can help decision-makers focus on _new_ facets of a project rather than past stumbling blocks.  With this focus, we can achieve faster approval, broader guidlines and smoother projects overall.
+Our goal here is to build upon news-industry norms to help us craft a multi-facted pitch that front-loads many project and process challenges, and presents them as building blocks rather than obstacles.
 
-**Pick & choose from a menu of options** used by other news organizations in their collaborations, from small, helpful reminders to overarching strategic plans like like leadership structures and project sustainability.
+Transparently iterating on norms and patterns can help decision-makers focus on _new_ facets of a project.  With this forward-thinking framing, we could achieve faster approval, better guidlines and smoother projects overall.
 
-This intentionally frames pitch-writing within the vocabulary of product development, with metaphors and frameworks borrowed from those disciplines.  This should promote better dicussions between newsroom and Product groups, with shared vocabulary and frameworks to help bridge communication gaps overall.
+**Pick & choose from a menu of options** employed by highly collaborative news organizations, from helpful reminders up to tactics like like leadership structures and project sustainability.
+
+This initiative frames pitch-writing within the vocabulary of product development -- that's intentional!  What you produce may not be a "product" per se.  But we believe it is helpful to view your pitch as you asking your news org to _invest_ in one.  Your project's _process_ could be developed as a product in its own right -- a scaffold for future ideas.
 
 
 ## [WIP] Initial Pitch-Crafting Decisions
 
-We may expect to group types of collaborations based on planned output. But Size is perhaps a more useful grouping, because it implies different types of leadership, staffing and sharing complexity.  Size here is not meant to be strict definitions, e.g. <= 3 reporters, or 3-5 reporters, etc.
+We may expect to group types of collaborations based on the published output. But Size is perhaps a more useful grouping, because it implies different leadership structures, staffing needs and sharing agreements.
 
-We're borrowing the [**relative sizing of tee-shirts**](https://asana.com/resources/t-shirt-sizing) that's often used by our Product or Engineering peers to guesstimate effort without getting sidetracked into definitions.  We can all understand the meaning of a shift between a Small and a Medium tee, as a projection of future effort.
+Size here is not meant to be strict definitions, e.g. <= 3 reporters, or 3-5 reporters, etc.  We're borrowing the [**relative sizing of tee-shirts**](https://asana.com/resources/t-shirt-sizing) that's used by our Product or Engineering peers to "guesstimate" effort without getting sidetracked into definitions too early in the process.
+
+We can all understand a shift between a Small and a Medium tee, as a projection of effort a team will have to put in.
 
 <div class="mermaid">
 graph TD
@@ -29,13 +33,16 @@ graph TD
 
 A "Small" collaboration (no judgement implied!) could be as focused as 2 reporters sharing pooled resources but writing & publishing separately.  Or small reporting pods within 2 or 3 newsrooms, democratically sharing resources and co-publishing the same content on multiple news-org sites.
 
-More complex "Small" efforts may include local news cooperative with each group lending separate expertise into a pod-style group, targeting a shared audience.  Or a reporting network, where one newsroom operates staff and resouces (the "hub"), with collaborators seen as "spokes" to the network and recipients of its work.
+More complex "Medium" efforts may include local news cooperative with each group lending separate expertise into a pod-style group, targeting a shared audience.  Or a reporting network, where one newsroom operates staff and resouces (the "hub"), with collaborators seen as "spokes" to the network and recipients of its work.
 
-The third pattern in our "Small" diagram above is a sustained initaitive -- a reporting project spun out of its home news orgs into its own staffing, funding and editorial decision-making.
+The most complex pattern is "Large", perhaps best exemplified by a "sustained initaitive" -- a reporting project spun out of its home news orgs into its own staffing, funding and editorial decision-making.
 
-All of these "Small" permutations come with their own complexities and challenges once they're up and running. This is not meant to troubleshoot project configurations but instead help readers understand
+All of these Size permutations come with their own complexities and challenges once they're up and running. This is not meant to troubleshoot project processes but instead help you understand the scale of our tee-shirt metaphor.
 
-[Montclair University's Center for Cooperative Media](https://collaborativejournalism.org/models/) suggests a matrix-shaped model, with groupings by working relationships vs. timeframes. This [specific chart version](https://collaborativejournalism.org/wp-content/uploads/sites/8/2019/07/TS-collaborativej-models-tip-sheet.pdf) shows their potential intersections, like "Partners work together to create content" x "One-time or finite [timelines]".  The Center breaks out a dedicated Tip Sheets which are easy to read and contain many project-planning insights.  There will be significant overlap between the Center and this initiative.
+
+#### Other Helpful Models
+
+[Montclair University's Center for Cooperative Media](https://collaborativejournalism.org/models/) suggests a matrix model, with groupings by working relationships vs. time/deadlines. This [specific chart version](https://collaborativejournalism.org/wp-content/uploads/sites/8/2019/07/TS-collaborativej-models-tip-sheet.pdf) shows their potential intersections, like "Partners work together to create content" x "One-time or finite [timelines]".  The Center breaks out a dedicated Tip Sheets which are easy to read and contain many project-planning insights.  There will be significant overlap between the Center and this initiative.
 
 The Center for Cooporative Media's collection and Report is a fantastic resource. This particular site will point to their work pretty frequently, particularly where questions lead from crafting a pitch into executing on plans.
 
@@ -84,5 +91,9 @@ graph TD
 </div>
 
 TK written desciption of the shorthand in the diagram above.  Links to sources.  Links to examples.
+
+### Applying "Types of Wins"
+
+TK why applying the framework helps "prove" a pitch and focus your presentation into something that's crafted to approve easy stuff and maintain focus on the harder parts.
 
 [ _[Summary](https://tiffehr.com/collaboration-capstone/)_ | _[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)_ | _[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.html)_ ]
