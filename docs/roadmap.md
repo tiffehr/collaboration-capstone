@@ -3,23 +3,23 @@
 ## 2022
 
 * **February:**
-  * NICAR conference, with sessions on collaborative frameworks and projects (data & reporting)
+  * [NICAR conference](https://github.com/tiffehr/collaboration-capstone/issues/36), with sessions on collaborative frameworks and projects (data & reporting)
 * **March:**
-  * News Product Alliance Summit, with sessions about project and product organization, strategy and convergence across disparate newsroom product groups
-  * Review with advisor David Smydra (March 17)
+  * 0News Product Alliance Summit](https://github.com/tiffehr/collaboration-capstone/issues/29), with sessions about project and product organization, strategy and convergence across disparate newsroom product groups
+  * Review with capstone advisor
   * CUNY program conclusion and presentation on this project
 * **April:**
   * Respond to initial feedback and dicussion
-  * Socialize this shift within NYT and determine partners to help try things out
+  * Socialize this shift within The NYT and determine partners to help try things out
 * **May:**
-  * Collaborative Journalism Summit, in conjunction with Montclair University’s Center for Cooperative Media
+  * [Collaborative Journalism Summit](https://collaborativejournalism.org/cjs2022/), in conjunction with Montclair University’s Center for Cooperative Media
   * Select background interviews with news orgs whose work already incorporates many of these principles, to present the mini-site and refine its effectiveness
 * **June:**
-  * SRCCON 2022, for an advisory panel gathering and perhaps a session presenting the project so far
+  * [SRCCON 2022](https://srccon.org/), for an advisory panel gathering and perhaps a session presenting the project so far
 * **Summer:**
-  * NYT’s fall project load may shift toward collaborative efforts, though that is subject to ongoing discussion in Feb & March ‘22
+  * NYT’s fall project load may shift toward some new collaborative efforts, subject to discussions in Feb & March ‘22
 * **September to November:**  [subject to the run-up for the U.S. domestic midterm elections]
-* **December:**  sleep and finalize my 2023 roadmap
+* **December:**  finalize my 2023 roadmap
 
 ## 2023
 * **Spring:**
