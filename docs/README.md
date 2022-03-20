@@ -22,78 +22,168 @@ We can all understand a shift between a Small and a Medium tee, as a projection 
 <div class="mermaid">
 graph TD
   A(How many collaborators?) --> B(Some traditional segments:)
-    B --> b1[\"Small" tee/]
-      b1 -->|e.g. pairs, pods, pools| sm[Shared/mixed leadership]
-    B --> b2[\"Medium" tee/]
-      b2 -->|e.g., reporting networks| md[Hub-and-spoke leadership]
-    B --> b3[\"Large" tee/]
-      b3 -->|e.g. sustained initiatives| lg[Dedicated leaders & staffing]
+    B --> S[\"Small" tee/]
+      S -->|Shared/mixed leadership| sm[e.g., pairs, pods, pools]
+    B --> M[\"Medium" tee/]
+      M -->|Hub-and-spoke leadership| md[e.g., reporting networks]
+    B --> L[\"Large" tee/]
+      L -->|Dedicated leaders & staffing| lg[e.g., sustained initiatives]
 </div>
 
 
-A "Small" collaboration (no judgement implied!) could be as focused as 2 reporters sharing pooled resources but writing & publishing separately.  Or small reporting pods within 2 or 3 newsrooms, democratically sharing resources and co-publishing the same content on multiple news-org sites.
+A **"Small" collaboration** (no judgement implied!) could be:
+- As focused as a pair of reporters sharing pooled resources but writing & publishing separately
+- Reporting pods within 2 or 3 newsrooms, sharing resources and publishing the same reporting on multiple news-org sites
+- Reporting pool dedicated to long-term subject-matter areas
 
-More complex "Medium" efforts may include local news cooperative with each group lending separate expertise into a pod-style group, targeting a shared audience.  Or a reporting network, where one newsroom operates staff and resouces (the "hub"), with collaborators seen as "spokes" to the network and recipients of its work.
+More complex **"Medium" collaborations** may include:
+- Local news cooperative, with each group lending separate expertise into a pod-style group, targeting a shared audience
+- A reporting network, where one newsroom operates staff and resouces (the "hub"), with collaborators seen as "spokes" to the network and recipients of its work
+- TK
 
-The most complex pattern is "Large", perhaps best exemplified by a "sustained initaitive" -- a reporting project spun out of its home news orgs into its own staffing, funding and editorial decision-making.
+**"Large" collaborations** are perhaps best exemplified by:
+- "sustained initaitives" -- a reporting project spun out of its home news orgs into its own staffing, funding and editorial decision-making
+- TK
+- TK
 
-All of these Size permutations come with their own complexities and challenges once they're up and running. This is not meant to troubleshoot project processes but instead help you understand the scale of our tee-shirt metaphor.
+All of these Size permutations come with their own complexities and challenges once they're up and running.  This initiative is not meant to provide guidance about executing on these patterns.  That is a much more challenging area of organizational analysis and strategy.
 
 
-#### Other Helpful Models
+**_Sidebar:  Other Models for Collaborations_**
 
-[Montclair University's Center for Cooperative Media](https://collaborativejournalism.org/models/) suggests a matrix model, with groupings by working relationships vs. time/deadlines. This [specific chart version](https://collaborativejournalism.org/wp-content/uploads/sites/8/2019/07/TS-collaborativej-models-tip-sheet.pdf) shows their potential intersections, like "Partners work together to create content" x "One-time or finite [timelines]".  The Center breaks out a dedicated Tip Sheets which are easy to read and contain many project-planning insights.  There will be significant overlap between the Center and this initiative.
+[**Montclair University's Center for Cooperative Media**](https://collaborativejournalism.org/models/) suggests a matrix model, with groupings by working relationships vs. time/deadlines. This [specific chart version](https://collaborativejournalism.org/wp-content/uploads/sites/8/2019/07/TS-collaborativej-models-tip-sheet.pdf) shows their potential intersections, like "Partners work together to create content" x "One-time or finite [timelines]".  The Center breaks out a dedicated Tip Sheets which are easy to read and contain many project-planning insights.  There will be significant overlap between the Center and this initiative.
 
 The Center for Cooporative Media's collection and Report is a fantastic resource. This particular site will point to their work pretty frequently, particularly where questions lead from crafting a pitch into executing on plans.
 
+TK **second example** with links into their pattern analysis.
+
 
 ### "Small" Collaborations
-<div class="mermaid">
-graph TD
-  SM("Small" collaborations) --> F[Facets we could include:]
-    F --> |Audience| A(Shared contacts for interviews)
-      A --> a1(Shared contacts in community)
-      a1 --> a2(Docs & task mgmt platform)
-      a2 --> a3(Publishing & audience metrics)
-      a3 --> a4(Method for assessing impact)
-    F --> |Budgeting| B[Universal budget for who's reporting on what]
-      B --> b1(Data-sourcing agreements)
-      b1 --> b2(Financing &/or grants)
-      b2 --> b3(Back-office support)
-    F --> |Culture| C(M.O.U. of practices & reporting standards)
-      C --> c1(Follow-up and maintenance responsibilities)
-      c1 --> c2(Maintenance responsibilities)
-      c2 --> c3(Vocab & jargon definitions)
-</div>
 
-TK written desciption of the shorthand in the diagram above.  Links to sources.  Links to examples.
+Our tee-shirt metaphor masks a wide range of concerns even a pair of reporters may need to address over the course of their project. Below you'll find emergent norms of these kinds of projects, grouped into three areas:
+1. **Audience (A)**: the people you'll be interacting with, from sources to future readers
+1. **Budgeting (B)**: planning and project-management, from finances to story budgets
+1. **Culture[^1] (C)**: teamwork-oriented standards, structure and staffing
+
+[^1]: Not the best term; please suggest a better one!
+
+The idea here is that you can **copy/paste these lists and re-mix them to fit your needs**. Delete what isn't appliable and create your own groupings.
+
+
+#### Audience-oriented Facets:
+
+- [ ] Shared contacts in community
+- [ ] Contact practices for more delicate sources
+- [ ] Social media presence, guidelines and plan
+- [ ] Publishing & audience metrics
+- [ ] TK
+
+#### Budgeting Facets:
+
+- [ ] Universal budget for who's reporting on what
+- [ ] Data-sourcing and -sharing agreements
+- [ ] Financing, fundraising and/or grants (where applicable)
+- [ ] Back-office advisors
+- [ ] TK
+
+#### Culture-building Facets:
+
+- [ ] MOU with practices & reporting standards
+- [ ] Communication platform focus, i.e. email, Slack, Signal, Teams
+- [ ] Document sharing platform
+- [ ] Task-management tracking system
+- [ ] [Responsibility assignment matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) (RAM, RACI, PARIS or another) for defined roles & decision-making
+- [ ] Agreement on status-update cadence up to parent news orgs
+- [ ] Vocab & jargon definitions
+- [ ] TK
 
 ### "Medium" Collaborations
 
 <div class="mermaid">
 graph TD
-  MD("Medium" collaborations) --> F[Facets we could include:]
-    F --> |Audience| A(TK)
-    F --> |Budgeting| B(TK)
-    F --> |Culture| C(TK)
+  S[\Everything from Small/]
+    S -->|**PLUS**| M[\"Medium" tee/]
+      M -->|Hub-and-spoke leadership| md[e.g., reporting networks]
 </div>
 
-TK written desciption of the shorthand in the diagram above.  Links to sources.  Links to examples.
+#### Audience-oriented Facets:
+
+- [x] **Small**, plus
+- [ ] Method for assessing and quantifying(?) impact
+- [ ] Public fundraising plan and statement of need
+- [ ] Data analysis methodology (where applicable)
+- [ ] Open-sourced data (where applicable)
+- [ ] TK
+
+#### Budgeting Facets:
+
+- [x] **Small**, plus
+- [ ] Legal guidance or consultation
+- [ ] Product management staffing
+- [ ] Surveys and user-research (if applicable)
+- [ ] IT support
+- [ ] TK
+
+#### Culture-building Facets:
+
+- [x] **Small**, plus
+- [ ] Follow-up & maintenance plan (and its own responsibilities-matrix plan)
+- [ ] Team meeting candence, for staff beyond reporters
+- [ ] Coding standards and agreements (where applicable)
+- [ ] Staffing support plan (physical & psychological safety)
+- [ ] TK
+
 
 ### "Large" Collaborations
 
 <div class="mermaid">
 graph TD
-  LG("Large" collaborations) --> F[Facets we could include:]
-    F --> |Audience| A(TK)
-    F --> |Budgeting| B(TK)
-    F --> |Culture| C(TK)
+  S[\Everything from Small/]
+    S -->|**PLUS**| M[\Everything from Medium/]
+      M -->|**PLUS**| L[\"Large" tee/]
+        L -->|Dedicated leaders & staffing| lg[e.g., sustained initiatives]
 </div>
 
-TK written desciption of the shorthand in the diagram above.  Links to sources.  Links to examples.
+
+#### Audience-oriented Facets:
+
+- [x] **Small** plus
+- [x] **Medium** plus
+- [ ] Contacts, sources or key figures tracked via a CRM
+- [ ] Public data usage-tracking (where applicable)
+- [ ] Public maintenance/follow-up expectations (annual reports?)
+- [ ] Archiving plans
+
+#### Budgeting Facets:
+
+- [x] **Small** plus
+- [x] **Medium** plus
+- [ ] Legal counsel
+- [ ] Insurance
+- [ ] Human Resources
+- [ ] Revenue-sharing plan, if there are fundraising or advertising earnings
+- [ ] [OKR](https://en.wikipedia.org/wiki/OKR) & [KPI](https://en.wikipedia.org/wiki/Performance_indicator) tracking, for status to stakeholders
+
+#### Culture-building Facets:
+
+- [x] **Small** plus
+- [x] **Medium** plus
+- [ ] How-To/Playbook efforts
+- [ ] Onboarding and Offboarding plans
+- [ ] Stakeholder reporting cadence
+- [ ] TK
+
 
 ### Applying "Types of Wins"
 
 TK why applying the framework helps "prove" a pitch and focus your presentation into something that's crafted to approve easy stuff and maintain focus on the harder parts.
 
 [ _[Summary](https://tiffehr.com/collaboration-capstone/)_ | _[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)_ | _[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.html)_ ]
+
+*[RAM]: Responsibility assignment matrix
+*[RACI]: Responsible, Accountable, Consulted, Informed
+*[PARIS]: Participant, Accountable, Review required, Input required, Sign-off required
+*[MOU]: Memorandum of Understanding
+*[CRM]: Customer relationship management
+*[OKR]: Objectives & Key Results
+*[KPI]: Key Performance Indicators
