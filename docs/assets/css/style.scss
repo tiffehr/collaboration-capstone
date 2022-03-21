@@ -3,13 +3,13 @@
 
 @import "{{ site.theme }}";
 a, a:visited, a:active, a:hover {
-  border-bottom:  2px solid cadetblue;
+  border-bottom:  1px solid cadetblue;
   color: cadetblue;
   font-weight: inherit;
   text-decoration: none;
 }
-a:visited { color: darkslategrey; }
-a:active, a:hover { color: black; border-bottom: 2px dotted black; }
+a:visited { color: darkslategrey; border-bottom-width: 1px; }
+a:active, a:hover { color: black; border-bottom: 1px dotted black; }
 h1 {
   color: darkslategrey;
 }
