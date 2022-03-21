@@ -22,6 +22,7 @@ Size here can't function with strict definitions, e.g. <= 3 reporters, or 3-5 re
 We can all understand a shift between a Small and a Medium tee-shirt, as a projection of effort a team will have to put in.
 
 <div class="mermaid">
+%%{init: {"theme": "base","themeVariables": { "background": "white", "primaryColor": "mintcream", "secondaryBorderColor": "cadetblue", "primaryTextColor": "cadetblue", "clusterBorder": "darkslategrey", "nodeBorder": "cadetblue", "clusterBkg": "white", "nodeTextColor": "darkslategrey", "defaultLinkColor": "cadetblue", "titleColor": "darkslategrey", "edgeLabelBackground": "white" }}}%%
 graph TD
   A{{How many collaborators?}}
     A --> S[\"Small" tee/]
@@ -103,9 +104,10 @@ The idea here is that you can **copy/paste these lists and re-mix them to fit yo
 ### Medium Collaborations
 
 <div class="mermaid">
+%%{init: {"theme": "base","themeVariables": { "background": "white", "primaryColor": "mintcream", "secondaryBorderColor": "cadetblue", "primaryTextColor": "cadetblue", "clusterBorder": "darkslategrey", "nodeBorder": "cadetblue", "clusterBkg": "white", "nodeTextColor": "darkslategrey", "defaultLinkColor": "cadetblue", "titleColor": "darkslategrey", "edgeLabelBackground": "white" }}}%%
 graph TD
-  S[\Everything from Small/]
-    S -->|**PLUS**| M[\"Medium" tee/]
+  S{{Everything from Small}}
+    S -->|+ PLUS +| M[\"Medium" tee/]
       M -->|Hub-and-spoke leadership| md[e.g., reporting networks]
 </div>
 
@@ -140,11 +142,11 @@ graph TD
 ### Large Collaborations
 
 <div class="mermaid">
+%%{init: {"theme": "base","themeVariables": { "background": "white", "primaryColor": "mintcream", "secondaryBorderColor": "cadetblue", "primaryTextColor": "cadetblue", "clusterBorder": "darkslategrey", "nodeBorder": "cadetblue", "clusterBkg": "white", "nodeTextColor": "darkslategrey", "defaultLinkColor": "cadetblue", "titleColor": "darkslategrey", "edgeLabelBackground": "white" }}}%%
 graph TD
-  S[\Everything from Small/]
-    S -->|**PLUS**| M[\Everything from Medium/]
-      M -->|**PLUS**| L[\"Large" tee/]
-        L -->|Dedicated leaders & staffing| lg[e.g., sustained initiatives]
+  SM{{Everything from Small & Medium}}
+      SM -->|+ PLUS +| L[\"Large" tee/]
+        L -->|Dedicated leaders & staffing| lg(e.g., sustained initiatives)
 </div>
 
 
@@ -191,7 +193,13 @@ TK **second example** with links into their pattern analysis.
 
 TK why applying the framework helps "prove" a pitch and focus your presentation into something that's crafted to approve easy stuff and maintain focus on the harder parts.
 
-[ _[Summary](https://tiffehr.com/collaboration-capstone/)_ | _[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)_ | _[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.html)_ ]
+---
+
+## Mini-Site Pages:
+* [Main Checklist](https://tiffehr.com/collaboration-capstone/)
+* [Refining with "Types of Wins"](https://tiffehr.com/collaboration-capstone/types-of-wins.html)
+* [Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)
+
 
 *[TK]: To come, in news jargon *sigh*
 *[WIP]: Work in Progress
