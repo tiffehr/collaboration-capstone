@@ -24,7 +24,7 @@ We can all understand a shift between a Small and a Medium tee-shirt, as a proje
 <div class="mermaid">
 %%{init: {"theme": "base","themeVariables": { "background": "white", "primaryColor": "mintcream", "secondaryBorderColor": "cadetblue", "primaryTextColor": "cadetblue", "clusterBorder": "darkslategrey", "nodeBorder": "cadetblue", "clusterBkg": "white", "nodeTextColor": "darkslategrey", "defaultLinkColor": "cadetblue", "titleColor": "darkslategrey", "edgeLabelBackground": "white" }}}%%
 graph TD
-  A{{How many collaborators?}}
+  A[How many collaborators?]
     A --> S[\"Small" tee/]
       S -->|Shared/mixed leadership| sm(e.g., pairs, pods, pools)
     A --> M[\"Medium" tee/]
@@ -106,7 +106,7 @@ The idea here is that you can **copy/paste these lists and re-mix them to fit yo
 <div class="mermaid">
 %%{init: {"theme": "base","themeVariables": { "background": "white", "primaryColor": "mintcream", "secondaryBorderColor": "cadetblue", "primaryTextColor": "cadetblue", "clusterBorder": "darkslategrey", "nodeBorder": "cadetblue", "clusterBkg": "white", "nodeTextColor": "darkslategrey", "defaultLinkColor": "cadetblue", "titleColor": "darkslategrey", "edgeLabelBackground": "white" }}}%%
 graph TD
-  S{{Everything from Small}}
+  S[Everything from Small]
     S -->|+ PLUS +| M[\"Medium" tee/]
       M -->|Hub-and-spoke leadership| md[e.g., reporting networks]
 </div>
@@ -145,7 +145,7 @@ graph TD
 <div class="mermaid">
 %%{init: {"theme": "base","themeVariables": { "background": "white", "primaryColor": "mintcream", "secondaryBorderColor": "cadetblue", "primaryTextColor": "cadetblue", "clusterBorder": "darkslategrey", "nodeBorder": "cadetblue", "clusterBkg": "white", "nodeTextColor": "darkslategrey", "defaultLinkColor": "cadetblue", "titleColor": "darkslategrey", "edgeLabelBackground": "white" }}}%%
 graph TD
-  SM{{Everything from Small & Medium}}
+  SM[Everything from Small & Medium]
       SM -->|+ PLUS +| L[\"Large" tee/]
         L -->|Dedicated leaders & staffing| lg(e.g., sustained initiatives)
 </div>
