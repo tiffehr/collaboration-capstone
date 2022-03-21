@@ -5,7 +5,7 @@
 * **February:**
   * [NICAR conference](https://github.com/tiffehr/collaboration-capstone/issues/36), with sessions on collaborative frameworks and projects (data & reporting)
 * **March:**
-  * 0News Product Alliance Summit](https://github.com/tiffehr/collaboration-capstone/issues/29), with sessions about project and product organization, strategy and convergence across disparate newsroom product groups
+  * [News Product Alliance Summit](https://github.com/tiffehr/collaboration-capstone/issues/29), with sessions about project and product organization, strategy and convergence across disparate newsroom product groups
   * Review with capstone advisor
   * CUNY program conclusion and presentation on this project
 * **April:**

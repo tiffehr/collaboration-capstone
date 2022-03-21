@@ -132,6 +132,7 @@ graph TD
 #### [C] Culture:
 
 - [x] **Small**, plus
+- [ ] Shared values, particularly for accountability or solutions reporting projects
 - [ ] Follow-up & maintenance plan (and its own responsibilities-matrix plan)
 - [ ] Team meeting candence, for staff beyond reporters
 - [ ] Coding standards and agreements (where applicable)
@@ -188,6 +189,7 @@ graph TD
 The Center for Cooporative Media's collection and Report is a fantastic resource. This particular site will point to their work pretty frequently, particularly where questions lead from crafting a pitch into executing on plans.
 
 TK **second example** with links into their pattern analysis.
+https://collaborativejournalism.org/wp-content/uploads/sites/8/2019/05/Collaborative_Playbook.pdf?#page=55
 
 
 ## Tactical Pitching with "Types of Wins"
