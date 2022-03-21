@@ -2,18 +2,28 @@
 ---
 
 @import "{{ site.theme }}";
-a, a:link, a:visited, a:active, a:hover {
-  color: cadetblue;
+a, a:visited, a:active, a:hover {
   border-bottom: 2px solid cadetblue;
+  color: cadetblue;
+  font-weight: normal;
+  &:link, &:active, &:hover {
+    border-bottom-color: black;
+    color: black !important;
+  }
+  &:visited {
+    border-bottom-color:  cadetblue;
+    border-bottom-style: dotted;
+    color: cadetblue;
+  }
 }
-a:active, a:hover, a:focus { color: black; font-weight: normal; border-bottom-color: black;  }
-a:visited { color: cadetblue; border-bottom-style: dotted; }
 h1 {
   color: darkslategrey;
-  a:link, a:active, a:hover, a:focus {
-    text-decoration: none;
+  font-weight: 700;
+  a:active, a:hover, a:focus, a:visited {
     border: 0px;
     color:  darkslategrey;
+    font-weight:  700;
+    text-decoration: none;
   }
 }
 h2 {
