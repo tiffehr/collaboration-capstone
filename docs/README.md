@@ -92,7 +92,7 @@ The idea here is that you can **copy/paste these lists and re-mix them to fit yo
 
 #### [C] Culture-building items:
 
-- [ ] Memo of Understanding ([MOU](https://collaborativejournalism.org/wp-content/uploads/sites/8/2019/05/Collaborative_Playbook.pdf?#page=55)) with vision statement, practices & reporting standards
+- [ ] [Memo of Understanding](https://collaborativejournalism.org/wp-content/uploads/sites/8/2019/05/Collaborative_Playbook.pdf?#page=55) (MOU) with vision statement, practices & reporting standards
 - [ ] Communication platform focus, i.e. email, Slack, Signal, Teams
 - [ ] Document sharing platform
 - [ ] Task-management tracking system
