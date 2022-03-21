@@ -3,12 +3,18 @@
 
 @import "{{ site.theme }}";
 a, a:link, a:visited, a:active, a:hover {
+  border-bottom:  2px solid cadetblue;
   color: cadetblue;
+  font-weight: normal;
   text-decoration: none;
 }
 a:visited { color: darkslategrey; }
 a:active, a:hover { color: black; }
 h1 {
+  color: darkslategrey;
+}
+h1 a, h1 a:link, h1 a:visited, h1 a:active, h1 a:hover {
+  border-bottom:  0px;
   color: darkslategrey;
 }
 h2 {
