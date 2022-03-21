@@ -4,12 +4,17 @@
 @import "{{ site.theme }}";
 a, a:link, a:visited, a:active, a:hover {
   color: cadetblue;
-  text-decoration: none;
+  border-bottom: 2px solid cadetblue;
 }
-a:visited { color: darkslategrey; }
-a:active, a:hover { color: black; }
+a:active, a:hover, a:focus { color: black; font-weight: normal; border-bottom-color: black;  }
+a:visited { color: cadetblue; border-bottom-style: dotted; }
 h1 {
   color: darkslategrey;
+  a:link, a:active, a:hover, a:focus {
+    text-decoration: none;
+    border: 0px;
+    color:  darkslategrey;
+  }
 }
 h2 {
 

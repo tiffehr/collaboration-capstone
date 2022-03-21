@@ -17,7 +17,7 @@ _A note:_ This initiative looks at pitch-crafting within the vocabulary of produ
 ## 👕 Relative Sizes
 We may expect to group types of collaborations based on the published output. But Size is perhaps a more useful grouping, because it implies different leadership structures, staffing needs and sharing agreements.
 
-Size here can't function with strict definitions, e.g. <= 3 reporters, or 3-5 reporters, etc.  We're borrowing the [**relative sizing of tee-shirts**](https://asana.com/resources/t-shirt-sizing) that's used by our Product or Engineering peers to "guesstimate" effort without getting sidetracked into definitions too early in the process.
+Size here can't function with strict definitions, e.g. <= 3 reporters, or 3-5 reporters, etc.  We're borrowing the **[relative sizing of tee-shirts](https://asana.com/resources/t-shirt-sizing)** that's used by our Product or Engineering peers to "guesstimate" effort without getting sidetracked into definitions too early in the process.
 
 We can all understand a shift between a Small and a Medium tee-shirt, as a projection of effort a team will have to put in.
 
@@ -74,7 +74,7 @@ Our tee metaphor masks a wide range of concerns even fearsome twosome of reporte
 The idea here is that you can **copy/paste these lists and re-mix them to fit your needs**. Delete what isn't appliable and create your own groupings.
 
 
-#### [A] possible Audience-oriented Items:
+#### [A] Audience-oriented items:
 
 - [ ] Shared contacts in community
 - [ ] Contact plan for more delicate or hesistant sources
@@ -82,7 +82,7 @@ The idea here is that you can **copy/paste these lists and re-mix them to fit yo
 - [ ] Publishing & audience metrics
 - [ ] TK[^suggestion]
 
-#### [B] possible Budgeting Items:
+#### [B] Budgeting items:
 
 - [ ] Universal budget for who's reporting on what
 - [ ] Data-sourcing and -sharing agreements
@@ -90,9 +90,9 @@ The idea here is that you can **copy/paste these lists and re-mix them to fit yo
 - [ ] Back-office advisors
 - [ ] TK[^suggestion]
 
-#### [C] possible Culture-building Items:
+#### [C] Culture-building items:
 
-- [ ] MOU with practices & reporting standards
+- [ ] Memo of Understanding ([MOU](https://collaborativejournalism.org/wp-content/uploads/sites/8/2019/05/Collaborative_Playbook.pdf?#page=55)) with vision statement, practices & reporting standards
 - [ ] Communication platform focus, i.e. email, Slack, Signal, Teams
 - [ ] Document sharing platform
 - [ ] Task-management tracking system
@@ -136,6 +136,7 @@ graph TD
 - [ ] Team meeting candence, for staff beyond reporters
 - [ ] Coding standards and agreements (where applicable)
 - [ ] Staffing support plan (physical & psychological safety)
+- [ ] Learning plans for collaboration members with asymmetric skills coming in
 - [ ] TK[^suggestion]
 
 
