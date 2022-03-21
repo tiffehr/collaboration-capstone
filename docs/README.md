@@ -1,4 +1,4 @@
-<div style="text-align:  center">👋</div>
+<div style="font-size: 2.0em; margin-bottom: 0.5em;">👋</div>
 
 # This initiative aims to help cross-newsroom collaborators more effectively pitch their projects.
 The more we can guide decision-makers to "yes, and"-thinking and indisputable decision-making points, the smoother it will be to jump-start our collaborations.
@@ -12,9 +12,9 @@ Transparently building upon norms and patterns can help our bosses and decision-
 _A note:_ This initiative looks at pitch-crafting within the vocabulary of product development -- that's intentional!  What you produce may not be a "product" per se.  But we believe it is helpful to view your pitch as you asking your news org to _invest_ in one.  Your project's _process_ could be developed as a product in its own right -- a template for future projects.
 
 
-# Pitch-Crafting Decisions [WIP]
+# Your Pitch-Crafting Decisions: [a WIP]
 
-## Relative Sizes
+## 👕 Relative Sizes
 We may expect to group types of collaborations based on the published output. But Size is perhaps a more useful grouping, because it implies different leadership structures, staffing needs and sharing agreements.
 
 Size here can't function with strict definitions, e.g. <= 3 reporters, or 3-5 reporters, etc.  We're borrowing the [**relative sizing of tee-shirts**](https://asana.com/resources/t-shirt-sizing) that's used by our Product or Engineering peers to "guesstimate" effort without getting sidetracked into definitions too early in the process.
@@ -23,17 +23,17 @@ We can all understand a shift between a Small and a Medium tee-shirt, as a proje
 
 <div class="mermaid">
 graph TD
-  A(How many collaborators?) --> B(Some traditional segments:)
-    B --> S[\"Small" tee/]
-      S -->|Shared/mixed leadership| sm[e.g., pairs, pods, pools]
-    B --> M[\"Medium" tee/]
-      M -->|Hub-and-spoke leadership| md[e.g., reporting networks]
-    B --> L[\"Large" tee/]
-      L -->|Dedicated leaders & staffing| lg[e.g., sustained initiatives]
+  A{{How many collaborators?}}
+    A --> S[\"Small" tee/]
+      S -->|Shared/mixed leadership| sm(e.g., pairs, pods, pools)
+    A --> M[\"Medium" tee/]
+      M -->|Hub-and-spoke leadership| md(e.g., reporting networks)
+    A --> L[\"Large" tee/]
+      L -->|Dedicated leaders & staffing| lg(e.g., sustained initiatives)
 </div>
 
 
-A **"Small" collaboration** (no judgement implied!) could be:
+👕 A **"Small" collaboration** (no judgement implied!) could be:
 - As focused as a pair or trio of reporters sharing pooled resources but writing & publishing separately
 - Reporting pods within a few neighboring newsrooms, sharing resources and publishing the same reporting on multiple news-org sites
 - Reporting pool dedicated to long-term subject-matter areas
@@ -42,13 +42,13 @@ A **"Small" collaboration** (no judgement implied!) could be:
 [^suggestion]: These lists only get better with community feedback and examples. We would be grateful for your suggestions!
 
 
-More complex **"Medium" collaborations** may include:
+👕 More complex **"Medium" collaborations** may include:
 - Local news cooperative, with each group lending separate expertise into a pod-style group, targeting a shared audience
 - A reporting network, where one newsroom operates staff and resouces (the "hub"), with collaborators seen as "spokes" to the network and recipients of its work
 - Particularly complex investigative threads
 - TK[^suggestion]
 
-**"Large" collaborations** are perhaps best exemplified by:
+👕 **"Large" collaborations** are perhaps best exemplified by:
 - "sustained initaitives" -- a reporting project spun out of its home news orgs into its own staffing, funding and editorial decision-making
 - [Wire services](https://collaborativejournalism.org/wp-content/uploads/sites/8/2017/09/TS4-Ongoing-and-Separate-FINAL.pdf), really
 - Proprietary software development supporting one or more projects
@@ -60,9 +60,10 @@ This initiative is not meant to provide guidance about executing on these patter
 
 ## What to Include
 
-### "Small" Collaborations
+### Small Collaborations
 
-Our tee-shirt metaphor masks a wide range of concerns even a pair of reporters may need to address over the course of their project. Below you'll find emergent norms of these kinds of projects, grouped into three areas:
+Our tee metaphor masks a wide range of concerns even fearsome twosome of reporters may need to address over the course of their project. Below you'll find emergent norms of these kinds of projects, grouped into three areas:
+
 1. **Audience [A]**: the people you'll be interacting with, from sources to future readers
 1. **Budgeting [B]**: planning and project-management, from finances to story budgets
 1. **Culture[^culture] [C]**: teamwork-oriented standards, structure and staffing
@@ -72,15 +73,15 @@ Our tee-shirt metaphor masks a wide range of concerns even a pair of reporters m
 The idea here is that you can **copy/paste these lists and re-mix them to fit your needs**. Delete what isn't appliable and create your own groupings.
 
 
-#### Audience-oriented Facets:
+#### [A] possible Audience-oriented Items:
 
 - [ ] Shared contacts in community
-- [ ] Contact practices for more delicate sources
-- [ ] Social media presence, guidelines and plan
+- [ ] Contact plan for more delicate or hesistant sources
+- [ ] Social media visibility, guidelines and plan
 - [ ] Publishing & audience metrics
 - [ ] TK[^suggestion]
 
-#### Budgeting Facets:
+#### [B] possible Budgeting Items:
 
 - [ ] Universal budget for who's reporting on what
 - [ ] Data-sourcing and -sharing agreements
@@ -88,7 +89,7 @@ The idea here is that you can **copy/paste these lists and re-mix them to fit yo
 - [ ] Back-office advisors
 - [ ] TK[^suggestion]
 
-#### Culture-building Facets:
+#### [C] possible Culture-building Items:
 
 - [ ] MOU with practices & reporting standards
 - [ ] Communication platform focus, i.e. email, Slack, Signal, Teams
@@ -99,7 +100,7 @@ The idea here is that you can **copy/paste these lists and re-mix them to fit yo
 - [ ] Vocab & jargon definitions
 - [ ] TK[^suggestion]
 
-### "Medium" Collaborations
+### Medium Collaborations
 
 <div class="mermaid">
 graph TD
@@ -108,7 +109,7 @@ graph TD
       M -->|Hub-and-spoke leadership| md[e.g., reporting networks]
 </div>
 
-#### Audience-oriented Facets:
+#### [A] Audience:
 
 - [x] **Small**, plus
 - [ ] Method for assessing and quantifying(?) impact
@@ -117,7 +118,7 @@ graph TD
 - [ ] Open-sourced data (where applicable)
 - [ ] TK[^suggestion]
 
-#### Budgeting Facets:
+#### [B] Budgeting:
 
 - [x] **Small**, plus
 - [ ] Legal guidance or consultation
@@ -126,7 +127,7 @@ graph TD
 - [ ] IT support
 - [ ] TK[^suggestion]
 
-#### Culture-building Facets:
+#### [C] Culture:
 
 - [x] **Small**, plus
 - [ ] Follow-up & maintenance plan (and its own responsibilities-matrix plan)
@@ -136,7 +137,7 @@ graph TD
 - [ ] TK[^suggestion]
 
 
-### "Large" Collaborations
+### Large Collaborations
 
 <div class="mermaid">
 graph TD
@@ -147,7 +148,7 @@ graph TD
 </div>
 
 
-#### Audience-oriented Facets:
+#### [A] Audience:
 
 - [x] **Small** plus
 - [x] **Medium** plus
@@ -157,7 +158,7 @@ graph TD
 - [ ] Archiving plans
 - [ ] TK[^suggestion]
 
-#### Budgeting Facets:
+#### [B] Budgeting:
 
 - [x] **Small** plus
 - [x] **Medium** plus
@@ -168,7 +169,7 @@ graph TD
 - [ ] [OKR](https://en.wikipedia.org/wiki/OKR) & [KPI](https://en.wikipedia.org/wiki/Performance_indicator) tracking, for status to stakeholders
 - [ ] TK[^suggestion]
 
-#### Culture-building Facets:
+#### [C] Culture:
 
 - [x] **Small** plus
 - [x] **Medium** plus
@@ -192,6 +193,7 @@ TK why applying the framework helps "prove" a pitch and focus your presentation 
 
 [ _[Summary](https://tiffehr.com/collaboration-capstone/)_ | _[Roadmap](https://tiffehr.com/collaboration-capstone/roadmap.html)_ | _[Types of Wins](https://tiffehr.com/collaboration-capstone/types-of-wins.html)_ ]
 
+*[TK]: To come, in news jargon *sigh*
 *[WIP]: Work in Progress
 *[RAM]: Responsibility assignment matrix
 *[RACI]: Responsible, Accountable, Consulted, Informed
