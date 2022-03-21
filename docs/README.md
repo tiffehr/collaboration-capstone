@@ -190,9 +190,11 @@ The Center for Cooporative Media's collection and Report is a fantastic resource
 TK **second example** with links into their pattern analysis.
 
 
-## Refining Your Pitch With "Types of Wins"
+## Tactical Pitching with "Types of Wins"
 
-TK why applying the framework helps "prove" a pitch and focus your presentation into something that's crafted to approve easy stuff and maintain focus on the harder parts.
+“Types of Wins” asks people who apply it to analyze things through a specific set of “lenses”:  .  Once initial drafting is done, it can help distill a Pitch into a tactical appeal that helps us overcome reasons decision-makers could say no.
+
+Join us in ["Types of Wins"](https://tiffehr.com/collaboration-capstone/types-of-wins.html) for a tour of the framework and how it can help your pitch!
 
 ---
 
