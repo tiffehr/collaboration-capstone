@@ -2,7 +2,9 @@
 
 Successful pitches work best when you get decision-makers on your side for many elements, before you even ask them to expand their mental models.
 
-Many communication frameworks can apply here, but our recommended framework is "Types of Wins". (It's also how I worked to refine this initiative!)  Using Types of Wins or a similar framework is a solid step in the direction of Product Development practices.  In this case, we're applying them at the Pitch level.
+Many communication frameworks can apply here, but our recommended framework is "Types of Wins". (It's also how I worked to refine this initiative!)
+
+Using Types of Wins or a similar framework is a solid step in the direction of Product Development practices.  In this case, we're applying them at the Pitch level.
 
 ## So what are the Types?
 

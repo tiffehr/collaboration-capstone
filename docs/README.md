@@ -96,7 +96,7 @@ The idea here is that you can **copy/paste these lists and re-mix them to fit yo
 - [ ] Communication platform focus, i.e. email, Slack, Signal, Teams
 - [ ] Document sharing platform
 - [ ] Task-management tracking system
-- [ ] [Responsibility assignment matrix](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) (RAM, RACI, PARIS or another) for defined roles & decision-making
+- [ ] Stakeholder mapping & [responsibility assignment matrices](https://en.wikipedia.org/wiki/Responsibility_assignment_matrix) (RAM, RACI, PARIS or another) for defined roles & decision-making
 - [ ] Agreement on status-update cadence up to parent news orgs
 - [ ] Vocab & jargon definitions
 - [ ] TK[^suggestion]
