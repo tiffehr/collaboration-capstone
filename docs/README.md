@@ -67,7 +67,7 @@ Our tee metaphor masks a wide range of concerns even fearsome twosome of reporte
 
 1. **Audience [A]**: the people you'll be interacting with, from sources to future readers
 1. **Budgeting [B]**: planning and project-management, from finances to story budgets
-1. **Culture[^culture] [C]**: teamwork-oriented standards, structure and staffing
+1. **Culture[^culture] [C]**: teamwork-building standards and structure
 
 [^culture]: Not the best term; please suggest a better one!
 
@@ -90,7 +90,7 @@ The idea here is that you can **copy/paste these lists and re-mix them to fit yo
 - [ ] Back-office advisors
 - [ ] TK[^suggestion]
 
-#### [C] Culture-building items:
+#### [C] Culture-development items:
 
 - [ ] [Memo of Understanding](https://collaborativejournalism.org/wp-content/uploads/sites/8/2019/05/Collaborative_Playbook.pdf?#page=55) (MOU) with vision statement, practices & reporting standards
 - [ ] Communication platform focus, i.e. email, Slack, Signal, Teams
@@ -114,8 +114,8 @@ graph TD
 #### [A] Audience:
 
 - [x] **Small**, plus
-- [ ] Method for assessing and quantifying(?) impact
-- [ ] Public fundraising plan and statement of need
+- [ ] Method for tracking and quantifying(?) impact
+- [ ] Public fundraising plan and/or statement of need
 - [ ] Data analysis methodology (where applicable)
 - [ ] Open-sourced data (where applicable)
 - [ ] TK[^suggestion]
@@ -124,20 +124,20 @@ graph TD
 
 - [x] **Small**, plus
 - [ ] Legal guidance or consultation
-- [ ] Product management staffing
-- [ ] Surveys and user-research (if applicable)
+- [ ] Product-management staffing
+- [ ] Surveys & user-research (if applicable)
 - [ ] IT support
 - [ ] TK[^suggestion]
 
 #### [C] Culture:
 
 - [x] **Small**, plus
-- [ ] Shared values, particularly for accountability or solutions reporting projects
-- [ ] Follow-up & maintenance plan (and its own responsibilities-matrix plan)
-- [ ] Team meeting candence, for staff beyond reporters
-- [ ] Coding standards and agreements (where applicable)
-- [ ] Staffing support plan (physical & psychological safety)
+- [ ] Team-meeting candence(s), for full project staff
+- [ ] Shared values statement, particularly for accountability projects
 - [ ] Learning plans for collaboration members with asymmetric skills coming in
+- [ ] Physical & psychological safety/support plan
+- [ ] Coding standards & practices (where applicable)
+- [ ] Follow-up & maintenance plan (and its own responsibilities-matrix plan)
 - [ ] TK[^suggestion]
 
 
@@ -156,10 +156,10 @@ graph TD
 
 - [x] **Small** plus
 - [x] **Medium** plus
-- [ ] Contacts, sources or key figures tracked via a CRM
-- [ ] Public data usage-tracking (where applicable)
+- [ ] Contacts, sources or key figures tracked via a CRM tools
 - [ ] Public maintenance/follow-up expectations (annual reports?)
 - [ ] Archiving plans
+- [ ] Public data usage-tracking (where applicable)
 - [ ] TK[^suggestion]
 
 #### [B] Budgeting:
@@ -167,8 +167,8 @@ graph TD
 - [x] **Small** plus
 - [x] **Medium** plus
 - [ ] Legal counsel
-- [ ] Insurance
 - [ ] Human Resources
+- [ ] Insurance or other financial needs
 - [ ] Revenue-sharing plan, if there are fundraising or advertising earnings
 - [ ] [OKR](https://en.wikipedia.org/wiki/OKR) & [KPI](https://en.wikipedia.org/wiki/Performance_indicator) tracking, for status to stakeholders
 - [ ] TK[^suggestion]
@@ -178,25 +178,26 @@ graph TD
 - [x] **Small** plus
 - [x] **Medium** plus
 - [ ] How-To/Playbook efforts
-- [ ] Onboarding and Offboarding plans
-- [ ] Stakeholder reporting cadence
+- [ ] Onboarding & Offboarding plans
+- [ ] Stakeholder reporting cadence(s)
 - [ ] TK[^suggestion]
 
-### _Sidebar:  Other Models for Collaborations_
+
+## Tactical Pitching with "Types of Wins"
+
+“Types of Wins” asks people who apply it to analyze things through a specific set of perspectives, each trying to help you describe your collaboration's potential in different ways.
+
+Once initial drafting is done, Types of Wins can help refine a Pitch into a tactical appeal that helps us push decision-makers towards more yeses.
+
+Join us in ["Types of Wins"](https://tiffehr.com/collaboration-capstone/types-of-wins.html) for a tour of the framework and how it can help your pitch!
+
+## Other Models for Collaborations
 
 [**Montclair University's Center for Cooperative Media**](https://collaborativejournalism.org/models/) suggests a matrix model, with groupings by working relationships vs. time/deadlines. This [specific chart version](https://collaborativejournalism.org/wp-content/uploads/sites/8/2019/07/TS-collaborativej-models-tip-sheet.pdf) shows their potential intersections, like "Partners work together to create content" x "One-time or finite [timelines]".  The Center breaks out a dedicated Tip Sheets which are easy to read and contain many project-planning insights.  There will be significant overlap between the Center and this initiative.
 
 The Center for Cooporative Media's collection and Report is a fantastic resource. This particular site will point to their work pretty frequently, particularly where questions lead from crafting a pitch into executing on plans.
 
-TK **second example** with links into their pattern analysis.
-https://collaborativejournalism.org/wp-content/uploads/sites/8/2019/05/Collaborative_Playbook.pdf?#page=55
-
-
-## Tactical Pitching with "Types of Wins"
-
-“Types of Wins” asks people who apply it to analyze things through a specific set of “lenses”:  .  Once initial drafting is done, it can help distill a Pitch into a tactical appeal that helps us overcome reasons decision-makers could say no.
-
-Join us in ["Types of Wins"](https://tiffehr.com/collaboration-capstone/types-of-wins.html) for a tour of the framework and how it can help your pitch!
+TK second example with links into their pattern analysis.
 
 ---
 
