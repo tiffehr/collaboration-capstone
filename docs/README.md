@@ -12,7 +12,7 @@ Transparently building upon norms and patterns can help our bosses and decision-
 _A note:_ This initiative looks at pitch-crafting within the vocabulary of product development -- that's intentional!  What you produce may not be a "product" per se.  But we believe it is helpful to view your pitch as you asking your news org to _invest_ in one.  Your project's _process_ could be developed as a product in its own right -- a template for future projects.
 
 
-# Your Pitch-Crafting Decisions: [a WIP]
+# Pitch-Crafting Options (a WIP)
 
 ## 👕 Relative Sizes
 We may expect to group types of collaborations based on the published output. But Size is perhaps a more useful grouping, because it implies different leadership structures, staffing needs and sharing agreements.
