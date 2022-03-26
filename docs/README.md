@@ -168,9 +168,10 @@ graph TD
 - [x] **Medium** plus
 - [ ] Legal counsel
 - [ ] Human Resources
-- [ ] Insurance or other financial needs
+- [ ] Finance counsel, financial analysis or similar budgeting
 - [ ] Revenue-sharing plan, if there are fundraising or advertising earnings
-- [ ] [OKR](https://en.wikipedia.org/wiki/OKR) & [KPI](https://en.wikipedia.org/wiki/Performance_indicator) tracking, for status to stakeholders
+- [ ] Insurance or other operational coverage
+- [ ] [OKR]s(https://en.wikipedia.org/wiki/OKR) & [KPI]s(https://en.wikipedia.org/wiki/Performance_indicator) tracking
 - [ ] TK[^suggestion]
 
 #### [C] Culture:
@@ -178,8 +179,9 @@ graph TD
 - [x] **Small** plus
 - [x] **Medium** plus
 - [ ] How-To/Playbook efforts
-- [ ] Onboarding & Offboarding plans
 - [ ] Stakeholder reporting cadence(s)
+- [ ] Collaborator reporting cadences(s)
+- [ ] Onboarding & Offboarding plans
 - [ ] TK[^suggestion]
 
 
