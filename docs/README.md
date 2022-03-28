@@ -168,7 +168,7 @@ graph TD
 - [x] **Medium** plus
 - [ ] Legal counsel
 - [ ] Human Resources
-- [ ] Finance counsel, financial analysis or similar budgeting
+- [ ] Finance counsel or financial modeling & analysis
 - [ ] Revenue-sharing plan, if there are fundraising or advertising earnings
 - [ ] Insurance or other operational coverage
 - [ ] [OKR]s(https://en.wikipedia.org/wiki/OKR) & [KPI]s(https://en.wikipedia.org/wiki/Performance_indicator) tracking
